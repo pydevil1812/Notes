@@ -1,0 +1,6 @@
+https://www.flaticon.com/ru/ иконки
+
+eraser.addEventListener('click', function(){
+    selectedColor = 'white'
+    console.log('eraser')
+})
