@@ -1,2 +1,2 @@
-# first_part
-first part of notes
+# Notes
+Web Notes
