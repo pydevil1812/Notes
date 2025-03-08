@@ -1,0 +1,80 @@
+body{
+    display: flex;
+    height: 98vh;
+    width: 99vw;
+    justify-content: center;
+    align-items: center;
+}
+.osn{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    width: 70vh;
+    border-radius: 20px;
+    background-color: bisque;
+    position: relative;
+    align-items: center;
+}
+
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topic{
+    height: 7vh;
+    width: 50vh;
+    margin: 25px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.kolok{
+    height: 125px;
+    width: 125px;
+    margin: 10px;
+}
+
+.note{
+    margin: 25px;
+    height: 850px;
+    width: 820px;
+    font-size: 24px;
+    overflow: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.figni{
+    display: flex;
+    justify-content: center;
+}
+
+.nalog{
+    border-radius: 5px;
+    gap: 10px;
+    position: absolute;
+    left: 53.5vh;
+    top: 11vh;
+    width: 200px;
+    height: 150px;
+    visibility: hidden;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.no{
+    font-size: medium;
+}
+
+.end{
+    font-size: x-large;
+    border-radius: 10px;
+    height: 6vh;
+    width: 60vh;
+}
