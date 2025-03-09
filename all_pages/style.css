@@ -1,9 +1,22 @@
 body{
     display: flex;
-    height: 98vh;
+    height: 99vh;
     width: 99vw;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(180deg, #FFFFFF 0%, #E898E6 100%);
+}
+
+.hat{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    bottom: 90vh;
+    height: 12vh;
+    width: 100vw;
+    background-color: #6566F7;
 }
 
 .header{
